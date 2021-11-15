@@ -1,0 +1,14 @@
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.exe
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.deps.json
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.json
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.dev.json
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.csproj.AssemblyReference.cache
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfoInputs.cache
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfo.cs
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Daniel\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.genruntimeconfig.cache
